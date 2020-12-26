@@ -6,14 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Prajjwal Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Prajjwal
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "blog"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -39,32 +40,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+  email: "meprajjwal@gmail.com"
+  facebook: meprajjwal
+  github: meprajjwal
+  twitter: meprajjwal
+#  youtube: c/daattali
+  linkedin: meprajjwal
 
 # --- General options --- #
 
